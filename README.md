@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SonicStrain
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning to code!
-- 💞️ I’m looking to collaborate on any project!
+- 💞️ I’m looking to collaborate !
 - 📫 Yeah thats all.
 
 <!---
